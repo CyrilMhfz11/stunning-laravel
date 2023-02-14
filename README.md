@@ -24,4 +24,5 @@ nslookup: This command should return the IP address associated with the FQDN.
 
 a2enmod rewrite: is a command used on Apache web servers to enable the mod_rewrite module, which is used for URL rewriting and other advanced URL                            manipulation features.
 
+To copy a file use sudo cp .env.example 1.env
 
