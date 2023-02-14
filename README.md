@@ -3,6 +3,7 @@
 Definitions:
 
 1- sudo: 
+
            Is a command that runs an elevated prompt without a need to change your identity. We use it whenever we need to install remove or change a piece            of software. At an administrative level
 
 2- apt-get:
